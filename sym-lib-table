@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BuisnessCard-eagle-import)(type Legacy)(uri ${KIPRJMOD}/BuisnessCard-eagle-import.lib)(options "")(descr ""))
+)
